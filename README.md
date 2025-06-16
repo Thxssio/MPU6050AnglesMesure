@@ -1,5 +1,5 @@
 <h1>
-  MPU6050 Angles Mesure
+  MPU6050 Angles Measure
 </h1>
 
 
